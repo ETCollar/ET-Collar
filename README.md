@@ -71,9 +71,33 @@ At this point you should have your pi ready working first we need to do is to ch
 # PCB and Soldring
 
 You can use fritizing software to design your PCB. If you don't know how to use fritizing you can use help from their website:
+http://fritzing.org/learning/
+
+The wires that are yellow in colour are on the top side of the board and orange ones are at the bottom. It is important not to cross two wires on the same side of board or in other words are in same colour. Note both sensor and Rpi should be soldered on each side of the board. Also, make sure all the wires that are touching the pi pins are to be soldered on top side hence should be same in colour same(yellow) and for sensor pins are going to be at bottom.
+
+
+Next step is to get your PCB board made once you have got your PCB ready carefully solder socket headers to the PCB you have to very carefull.
+Safety is the first priority so it is important to know what are you working with. If you haven't done soldering before you should get  help from someone with experience or from youtube videos.
+For above design I have this PCB should look like this.
+
+
+After that you can just attached your sensor and raspberry pi to PCB. Make sure all the wires are connected and your sensor is at the correct address.
+
+# Get Data/Sensor Readings
+
+So at this point you should have your raspberry pi and sensor ready to use to read data. To get data from sensor and display it in human readable form we have ro run a script you can program that in java/c/python. Here i am ruuning this python code over here.
+
+```
+CODE HERE
+
+```
+
+# Data Display
+
+If you run the above script you should be able to get readings on screen......
 
 
 
-
+You can test sensor by changeing the reading for example use your phone's flash light to raise and cover it by your hand to decrease the amount of light on your sensor.
 
 
