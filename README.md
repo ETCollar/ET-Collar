@@ -12,7 +12,7 @@ In order to build this project these are the essential components that you need:
 
 - [x] Raspberry pi
 - [x] TSL2561 Lux/Light Sensor
-- [x]  Acclerometer
+- [x] Acclerometer
 - [x] GPS device to track location 
 - [x] Jumper wires and breadboard to test out temporary circuit 
 - [x] PCB board with final circuit printed on it with correct <b>address</b>
@@ -22,9 +22,13 @@ In order to build this project these are the essential components that you need:
 ## Overall Budget will be approxmately as below:
 
 | Component          | Cost  |
-| :------------:     | -----:|
-| col 3 is           | $1600 |
-| col 2 is           |   $12 |
-| zebra stripes      |    $1 |
+| :------------:     | :----:|
+| TSL2561            | $1600 |
+| Accelormeter       | $12   |
+| GPS                | $1    |
+| Accelormeter       | $12   |
+| Raspberry pi       | $1    |
+| wires and sockets  | $12   |
+| soldering iron     | $1    |
 
 For me most of the components were provided by Humber College it costed me around $155
