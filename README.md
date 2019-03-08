@@ -21,10 +21,10 @@ In order to build this project these are the essential components that you need:
 
 ## Overall Budget will be approxmately as below:
 
-| Left-Aligned  | Center Aligned  | Right Aligned |
-| :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
+| Component          | Cost  |
+| :------------:     | -----:|
+| col 3 is           | $1600 |
+| col 2 is           |   $12 |
+| zebra stripes      |    $1 |
 
 For me most of the components were provided by Humber College it costed me around $155
