@@ -91,6 +91,12 @@ Top Side
 
 After that you can just attached your sensor and raspberry pi to PCB. Make sure all the wires are connected and your sensor is at the correct address.
 
+Connect sensors to PCB and to RPI as well.
+
+
+![pcb](https://user-images.githubusercontent.com/47256700/54047013-ee009100-41a3-11e9-8dae-4faf894e930e.png)
+
+
 # Get Data/Sensor Readings
 
 So at this point you should have your raspberry pi and sensor ready to use to read data. To get data from sensor and display it in human readable form we have ro run a script you can program that in java/c/python. Here i am ruuning this python code over here.
