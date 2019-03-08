@@ -117,6 +117,26 @@ Moreover, the estimated completion time consider that the source code, PCB desig
 
 [Database Structure](https://github.com/ETCollar/ET-Collar/blob/master/Database%20structure/ecofinder-29360-export.json)
 
+## Create new Firebase Project 
+
+![image](https://user-images.githubusercontent.com/47256700/54047180-69624280-41a4-11e9-89e8-a317544acf44.png)
+
+![image](https://user-images.githubusercontent.com/47256700/54047193-6d8e6000-41a4-11e9-9a4b-d3b7296a5a9c.png)
+
+![image](https://user-images.githubusercontent.com/47256700/54047200-72ebaa80-41a4-11e9-944d-52072ed78a28.png)
+
+![image](https://user-images.githubusercontent.com/47256700/54047211-7848f500-41a4-11e9-9a68-e270f442f402.png)
+
+![image](https://user-images.githubusercontent.com/47256700/54047218-7bdc7c00-41a4-11e9-9378-1be089cc4a7d.png)
+
+![image](https://user-images.githubusercontent.com/47256700/54047231-8139c680-41a4-11e9-916f-9833e56e531d.png)
+
+![image](https://user-images.githubusercontent.com/47256700/54047236-86971100-41a4-11e9-93ec-b805e4388f9d.png)
+
+![image](https://user-images.githubusercontent.com/47256700/54047244-8e56b580-41a4-11e9-908e-12082a1f2cad.png)
+
+
+
 # Data Display
 
 If you run the above script you should be able to get readings on screen......
