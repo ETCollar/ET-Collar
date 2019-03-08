@@ -66,18 +66,7 @@ Select ‘Write’ and wait for the process to finish which may take around 20 m
 
 # Hardware Setup
 
-At this point you should have your pi ready working first we need to do is to check address and functionality of sensor used in the project. How you first connect sensor through wires to check the correct address. After you have conformed the I2C address for sensors  you can design Printed circuit board to the connect all the senosrs together for convence.
-
-Check the address for sensors:
-
-### Light Sensor
-![c](https://user-images.githubusercontent.com/43556409/49120745-e9ab0a80-f27b-11e8-8392-84376b9dc8cc.jpeg)
-
-### Acclerometer
-
-
-### GPS
-
+At this point you should have your pi ready working first we need to do is to check address and functionality of sensor used in the project. How you first connect sensor through wires to check the correct address. After you have conformed the I2C address for sensors  you can design Printed circuit board to the connect all the senosrs together for conveience.
 
 # PCB and Soldring
 
