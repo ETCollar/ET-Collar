@@ -76,9 +76,16 @@ The wires that are yellow in colour are on the top side of the board and orange 
 
 ![thumbnail](https://user-images.githubusercontent.com/47256700/54046513-9150a680-41a2-11e9-82ff-e4f8a9e4a066.png)
 
-Next step is to get your PCB board made once you have got your PCB ready carefully solder socket headers to the PCB you have to very carefull.
+Next step is to get your PCB board made once you have got your PCB ready carefully solder socket headers to the PCB you have to very carefully.
 Safety is the first priority so it is important to know what are you working with. If you haven't done soldering before you should get  help from someone with experience or from youtube videos.
 For above design PCB should look like this.
+Bottom Side
+
+![bottom](https://user-images.githubusercontent.com/47256700/54046880-9b26d980-41a3-11e9-9bf9-af228a05244b.png)
+
+Top Side
+
+![top](https://user-images.githubusercontent.com/47256700/54046888-9e21ca00-41a3-11e9-9080-d36badd45084.png)
 
 
 
