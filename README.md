@@ -143,6 +143,8 @@ Moreover, the estimated completion time consider that the source code, PCB desig
 
 If you run the above script you should be able to get readings on the screen......
 
+![capture](https://user-images.githubusercontent.com/47256700/54049623-0031fd80-41ab-11e9-93f2-08e7b42b8109.PNG)
+
 # Android App display
 
 If everything is working fine you should get following screen on APP
