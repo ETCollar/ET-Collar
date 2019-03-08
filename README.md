@@ -114,6 +114,11 @@ The overall time taken to complete the hardware part was 15 hours, to complete t
 However, if anyone wants to replicate the project it should take no longer than seven hours to complete, of course all the required materials should be by hand.
 Moreover, the estimated completion time consider that the source code, PCB design, instruction for DB set up and android application are provided and working. If changes are made, more time needs to be added for the completion of the project.
 
+The IDE used to develop the application is Android Studio, available is the APK of the app that can be downloaded and is already working.
+
+However, if someone wishes to add their own JSON file, they can download and modify the android application and the path to the database, refer to this link: https://developers.google.com/android/guides/google-services-plugin
+
+Once opened the json file can be added and the path to the database can be modified if using own DB (not recommened.)
 
 # Firebase
 
