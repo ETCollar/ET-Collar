@@ -72,17 +72,15 @@ You can use fritizing software to design your PCB. If you don't know how to use 
 http://fritzing.org/learning/
 
 The wires that are yellow in colour are on the top side of the board and orange ones are at the bottom. It is important not to cross two wires on the same side of board or in other words are in same colour. Note both sensor and Rpi should be soldered on each side of the board. Also, make sure all the wires that are touching the pi pins are to be soldered on top side hence should be same in colour same(yellow) and for sensor pins are going to be at bottom.
-
 [gerber.zip](https://github.com/ETCollar/ET-Collar/files/2946933/gerber.zip)
 
-
-
+![thumbnail](https://user-images.githubusercontent.com/47256700/54046513-9150a680-41a2-11e9-82ff-e4f8a9e4a066.png)
 
 Next step is to get your PCB board made once you have got your PCB ready carefully solder socket headers to the PCB you have to very carefull.
 Safety is the first priority so it is important to know what are you working with. If you haven't done soldering before you should get  help from someone with experience or from youtube videos.
 For above design PCB should look like this.
 
-![thumbnail](https://user-images.githubusercontent.com/47256700/54046513-9150a680-41a2-11e9-82ff-e4f8a9e4a066.png)
+
 
 After that you can just attached your sensor and raspberry pi to PCB. Make sure all the wires are connected and your sensor is at the correct address.
 
