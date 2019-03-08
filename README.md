@@ -147,12 +147,15 @@ If you run the above script you should be able to get readings on screen......
 
 If everything is working fine you should get following screen on APP
 Select Status it will ask you to choose devices that are added to your account.
+
 ![astatus](https://user-images.githubusercontent.com/47256700/54047821-18534e00-41a6-11e9-88f9-05385f572abb.png)
 
 After you have selected you device's MAC address press get data to display data.
+
 ![status](https://user-images.githubusercontent.com/47256700/54047820-18534e00-41a6-11e9-979c-5903e3b3794e.PNG)
 
 Press map button to show animal's position on map
+
 ![map](https://user-images.githubusercontent.com/47256700/54047819-18534e00-41a6-11e9-9592-5b36784b9a2b.png)
 
 
