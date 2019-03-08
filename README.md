@@ -107,7 +107,7 @@ CODE HERE
 
 # Firebase
 
-[here] !https://github.com/ETCollar/ET-Collar/blob/master/Database%20structure/ecofinder-29360-export.json
+![here]https://github.com/ETCollar/ET-Collar/blob/master/Database%20structure/ecofinder-29360-export.json
 
 # Data Display
 
