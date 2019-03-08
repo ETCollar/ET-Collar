@@ -106,6 +106,8 @@ CODE HERE
 
 ```
 
+
+
 # Software Setup
 
 The overall time taken to complete the hardware part was 15 hours, to complete the android application it took around 30 hours spanned in 4 months
@@ -142,6 +144,9 @@ Moreover, the estimated completion time consider that the source code, PCB desig
 If you run the above script you should be able to get readings on screen......
 
 
+![map](https://user-images.githubusercontent.com/47256700/54047819-18534e00-41a6-11e9-9592-5b36784b9a2b.png)
+![status](https://user-images.githubusercontent.com/47256700/54047820-18534e00-41a6-11e9-979c-5903e3b3794e.PNG)
+![astatus](https://user-images.githubusercontent.com/47256700/54047821-18534e00-41a6-11e9-88f9-05385f572abb.png)
 
 You can test sensor by changeing the reading for example use your phone's flash light to raise and cover it by your hand to decrease the amount of light on your sensor.
 
