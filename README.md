@@ -4,7 +4,7 @@ Electronic Tracking Collar
 
 # Purpose:
 
-ET-Collar is a deivce designed to securely clip on your pet's collar that will track down pet's location and ststua weather or not its moving or not, how much light your pet likes to stay in. Device gives you peace of mind to know your dog or cat is anytime.
+ET-Collar is a device designed to be clipped on your pet's collar that will track down pet's location and status whethere or not its moving or not, the kind of lighiting your pet likes. Device gives you the possibility to track your dog/cat so anyone can be more relaxed knowing where their loved pets are.
 
 # Component Requirements:
 
@@ -42,7 +42,7 @@ Moreover, the estimated completion time consider that the source code, PCB desig
 
 # Setup raspberry pi
 
-Once you have got your raspberry pi start working on its functionality download required operating System and allow all the permissions required. if you're first time installing os on raspberry pi and don't know how to do it follow these setps:
+Once you have got your raspberry pi. Start working on its functionality, download required operating System and allow all the permissions required. If it is the first time installing OS on raspberry pi and do not know how to do it follow these steps:
 
 ---
 ### Setting up Raspberry Pi
@@ -64,19 +64,19 @@ Select ‘Write’ and wait for the process to finish which may take around 20 m
 
 # Hardware Setup
 
-At this point you should have your pi ready working first we need to do is to check address and functionality of sensor used in the project. How you first connect sensor through wires to check the correct address. After you have conformed the I2C address for sensors  you can design Printed circuit board to the connect all the senosrs together for conveience.
+At this point you should have your pi ready and working. First we need to do is to check address and functionality of the sensors used in the project. So first connect your sensor through wires to the PI in order to check the correct address. After you have confirmed the I2C address for sensors  you can design Printed circuit board and connect all the senosors together together through PCB.
 
 # PCB and Soldring
 
-You can use fritizing software to design your PCB. If you don't know how to use fritizing you can use help from their website:
+You can use fritizing to design your PCB. If you don't know how to use fritizing you can follow the guidelines on this website:
 http://fritzing.org/learning/
 
-The wires that are yellow in colour are on the top side of the board and orange ones are at the bottom. It is important not to cross two wires on the same side of board or in other words are in same colour. Note both sensor and Rpi should be soldered on each side of the board. Also, make sure all the wires that are touching the pi pins are to be soldered on top side hence should be same in colour same(yellow) and for sensor pins are going to be at bottom.
+The wires that are yellow are on the top side of the board and orange ones are at the bottom. It is important not to cross two wires on the same side of board or in other words are in same colour. Note both sensor and Rpi should be soldered on each side of the board. Also, make sure all the wires that are touching the PI pins are to be soldered on top side hence: should be same in colour same(yellow) and for sensor pins are going to be at bottom.
 [gerber.zip](https://github.com/ETCollar/ET-Collar/files/2946933/gerber.zip)
 
 ![thumbnail](https://user-images.githubusercontent.com/47256700/54046513-9150a680-41a2-11e9-82ff-e4f8a9e4a066.png)
 
-Next step is to get your PCB board made once you have got your PCB ready carefully solder socket headers to the PCB you have to very carefully.
+Next step, once the PCB is board is available, is to carefully solder socket headers to the PCB you have to be very carefull.
 Safety is the first priority so it is important to know what are you working with. If you haven't done soldering before you should get  help from someone with experience or from youtube videos.
 For above design PCB should look like this.
 Bottom Side
@@ -114,11 +114,6 @@ The overall time taken to complete the hardware part was 15 hours, to complete t
 However, if anyone wants to replicate the project it should take no longer than seven hours to complete, of course all the required materials should be by hand.
 Moreover, the estimated completion time consider that the source code, PCB design, instruction for DB set up and android application are provided and working. If changes are made, more time needs to be added for the completion of the project.
 
-The IDE used to develop the application is Android Studio, available is the APK of the app that can be downloaded and is already working.
-
-However, if someone wishes to add their own JSON file, they can download and modify the android application and the path to the database, refer to this link: https://developers.google.com/android/guides/google-services-plugin
-
-Once opened the json file can be added and the path to the database can be modified if using own DB (not recommened.)
 
 # Firebase
 
@@ -146,7 +141,7 @@ Once opened the json file can be added and the path to the database can be modif
 
 # Data Display
 
-If you run the above script you should be able to get readings on screen......
+If you run the above script you should be able to get readings on the screen......
 
 # Android App display
 
