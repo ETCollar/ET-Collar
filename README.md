@@ -12,8 +12,8 @@ In order to build this project these are the essential components that you need:
 
 - [x] Raspberry pi
 - [x] TSL2561 Lux/Light Sensor
-- [x] Acclerometer
-- [x] GPS device to track location 
+- [x] Acclerometer / LIS3DH
+- [x] GP-20U7 GPS device to track location 
 - [x] Jumper wires and breadboard to test out temporary circuit 
 - [x] PCB board with final circuit printed on it with correct <b>address</b>
 - [x] Socket Header to attach sensor and pi together on PCB
@@ -23,7 +23,7 @@ In order to build this project these are the essential components that you need:
 
 | Component          | Cost   |
 | :------------:     | :-----:| 
-| TSL2561            | $9.99  |
+| Light Sensor       | $9.99  |
 | Accelormeter       | $12    |
 | GPS                | $80.0  |
 | Raspberry pi       | $116.99|
@@ -68,6 +68,17 @@ Select ‘Write’ and wait for the process to finish which may take around 20 m
 
 At this point you should have your pi ready working first we need to do is to check address and functionality of sensor used in the project. How you first connect sensor through wires to check the correct address. After you have conformed the I2C address for sensors  you can design Printed circuit board to the connect all the senosrs together for convence.
 
+Check the address for sensors:
+
+### Light Sensor
+![c](https://user-images.githubusercontent.com/43556409/49120745-e9ab0a80-f27b-11e8-8392-84376b9dc8cc.jpeg)
+
+### Acclerometer
+
+
+### GPS
+
+
 # PCB and Soldring
 
 You can use fritizing software to design your PCB. If you don't know how to use fritizing you can use help from their website:
@@ -92,6 +103,12 @@ CODE HERE
 
 ```
 
+# Software Setup
+
+# Firebase
+
+
+
 # Data Display
 
 If you run the above script you should be able to get readings on screen......
@@ -99,5 +116,6 @@ If you run the above script you should be able to get readings on screen......
 
 
 You can test sensor by changeing the reading for example use your phone's flash light to raise and cover it by your hand to decrease the amount of light on your sensor.
+
 
 
